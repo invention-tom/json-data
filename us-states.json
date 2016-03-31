@@ -156,7 +156,7 @@
     "code-ansi-digit":"20",
     "code-usps":"KS",
     "code-uscg":"KA",
-    "abbreviation-ap":"Kans.",
+    "abbreviation-ap":"Kan.",
     "abbreviation-old-gpo":"Kan."
   },
   {  
@@ -266,7 +266,7 @@
     "code-ansi-digit":"31",
     "code-usps":"NE",
     "code-uscg":"NB",
-    "abbreviation-ap":"Nebr.",
+    "abbreviation-ap":"Neb.",
     "abbreviation-old-gpo":"Neb."
   },
   {  
@@ -306,7 +306,7 @@
     "code-ansi-digit":"35",
     "code-usps":"NM",
     "code-uscg":"NM",
-    "abbreviation-ap":"N. Mex.",
+    "abbreviation-ap":"N.M.",
     "abbreviation-old-gpo":"N.M."
   },
   {  
@@ -336,7 +336,7 @@
     "code-ansi-digit":"38",
     "code-usps":"ND",
     "code-uscg":"ND",
-    "abbreviation-ap":"N. Dak.",
+    "abbreviation-ap":"N.D.",
     "abbreviation-old-gpo":"N.D."
   },
   {  
@@ -366,7 +366,7 @@
     "code-ansi-digit":"41",
     "code-usps":"OR",
     "code-uscg":"OR",
-    "abbreviation-ap":"Oreg.",
+    "abbreviation-ap":"Ore.",
     "abbreviation-old-gpo":"Ore."
   },
   {  
@@ -406,7 +406,7 @@
     "code-ansi-digit":"46",
     "code-usps":"SD",
     "code-uscg":"SD",
-    "abbreviation-ap":"S. Dak.",
+    "abbreviation-ap":"S.D.",
     "abbreviation-old-gpo":"S.D."
   },
   {  
@@ -426,7 +426,7 @@
     "code-ansi-digit":"48",
     "code-usps":"TX",
     "code-uscg":"TX",
-    "abbreviation-ap":"Tex.",
+    "abbreviation-ap":"Texas",
     "abbreviation-old-gpo":"Texas"
   },
   {  
